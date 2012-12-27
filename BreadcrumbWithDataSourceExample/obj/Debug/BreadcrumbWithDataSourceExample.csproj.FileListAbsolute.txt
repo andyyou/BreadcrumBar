@@ -1,0 +1,16 @@
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\bin\Debug\BreadcrumbWithDataSourceExample.exe
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\bin\Debug\BreadcrumbWithDataSourceExample.pdb
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\bin\Debug\Odyssey.dll
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\bin\Debug\Odyssey.pdb
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\obj\Debug\Window1.baml
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\obj\Debug\Window1.g.cs
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\obj\Debug\App.g.cs
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\obj\Debug\BreadcrumbWithDataSourceExample_MarkupCompile.cache
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\obj\Debug\BreadcrumbWithDataSourceExample.g.resources
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\obj\Debug\BreadcrumbWithDataSourceExample.Properties.Resources.resources
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\obj\Debug\BreadcrumbWithDataSourceExample.csproj.GenerateResource.Cache
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\obj\Debug\BreadcrumbWithDataSourceExample.exe
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\obj\Debug\BreadcrumbWithDataSourceExample.pdb
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\obj\Debug\Window2.baml
+C:\Github\WPFBreadcrumb\BreadcrumbWithDataSourceExample\obj\Debug\Window2.g.cs

@@ -1,0 +1,13 @@
+C:\Github\WPFBreadcrumb\BreadcrumbBar\bin\Debug\Odyssey.dll.config
+C:\Github\WPFBreadcrumb\BreadcrumbBar\bin\Debug\Odyssey.dll
+C:\Github\WPFBreadcrumb\BreadcrumbBar\bin\Debug\Odyssey.pdb
+C:\Github\WPFBreadcrumb\BreadcrumbBar\obj\Debug\ResolveAssemblyReference.cache
+C:\Github\WPFBreadcrumb\BreadcrumbBar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Github\WPFBreadcrumb\BreadcrumbBar\obj\Debug\Odyssey_MarkupCompile.cache
+C:\Github\WPFBreadcrumb\BreadcrumbBar\obj\Debug\Odyssey_MarkupCompile.lref
+C:\Github\WPFBreadcrumb\BreadcrumbBar\obj\Debug\Themes\Generic.baml
+C:\Github\WPFBreadcrumb\BreadcrumbBar\obj\Debug\Odyssey.g.resources
+C:\Github\WPFBreadcrumb\BreadcrumbBar\obj\Debug\Odyssey.Controls.Properties.Resources.resources
+C:\Github\WPFBreadcrumb\BreadcrumbBar\obj\Debug\Odyssey.Controls.csproj.GenerateResource.Cache
+C:\Github\WPFBreadcrumb\BreadcrumbBar\obj\Debug\Odyssey.dll
+C:\Github\WPFBreadcrumb\BreadcrumbBar\obj\Debug\Odyssey.pdb
